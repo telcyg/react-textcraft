@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-textcraft/static/css/main.297ed3c4.css",
+    "main.js": "/react-textcraft/static/js/main.adb5069a.js",
+    "static/js/453.a6f46471.chunk.js": "/react-textcraft/static/js/453.a6f46471.chunk.js",
+    "index.html": "/react-textcraft/index.html",
+    "main.297ed3c4.css.map": "/react-textcraft/static/css/main.297ed3c4.css.map",
+    "main.adb5069a.js.map": "/react-textcraft/static/js/main.adb5069a.js.map",
+    "453.a6f46471.chunk.js.map": "/react-textcraft/static/js/453.a6f46471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297ed3c4.css",
+    "static/js/main.adb5069a.js"
+  ]
+}

@@ -1,0 +1,44 @@
+React Course
+
+---> Differnce between js & jsx 
+1. className instaed of class
+2. htmlFor instaed of for 
+3. JSX fragment <> </>
+4. tabIndex instaed of tabindex
+5. img closing tag
+
+
+Can return only 1 tag if use JSX in React, unless wrapped in JSX fragment
+
+
+---> import/export
+1. by defaut export u can write 
+file 1: export default b;
+file 2: import ui from ..filename
+
+if multiples things exporting & not default one's
+file 1: export {a} export {b} export {c}
+file 2: import {a}; {b};{c} ;
+
+----> Components nameing capital
+rfc(react func based component)
+
+
+-->
+component -> Navbar
+props -> Info inside it like( about us, contact)
+
+----> props
+
+Navbar.propTypes = {
+    title: PropTypes.string.isRequired,
+}
+Navbar.defaultProps = {
+    title: PropTypes.string.isRequired,
+}
+
+-------->Hooks (Usestate hook)
+
+-state is the value or the current state
+-we cant directly change the state unless you use setText
+-we also need to use onchange handler to change the text in textarea, etc.
