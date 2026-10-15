@@ -1,2 +1,2 @@
 # react-textcraft
-Text Editor 
+[Text Editor ](https://telcyg.github.io/react-textcraft/)
